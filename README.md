@@ -1,4 +1,4 @@
-# 🐧 Imputação de Dados com KNN — Dataset Palmer Penguins
+# 🐧 Imputação de Dados com KNN - Dataset Palmer Penguins
 
 Projeto acadêmico desenvolvido na disciplina de **Mineração e Visualização de Dados**
 (1º semestre - Ciência de Dados e IA)
